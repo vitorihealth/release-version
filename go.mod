@@ -1,4 +1,4 @@
-module github.com/flume/release-version
+module github.com/vitorihealth/release-version
 
 go 1.22
 
