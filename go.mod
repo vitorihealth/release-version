@@ -6,7 +6,7 @@ toolchain go1.22.1
 
 require (
 	github.com/coreos/go-semver v0.3.1
-	github.com/flume/release-version v0.0.0-20240320164200-3a81b1ffe984
+	github.com/vitorihealth/release-version v0.1.0
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.8.4
@@ -40,5 +40,3 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/flume/release-version => github.com/vitorihealth/release-version v0.1.0

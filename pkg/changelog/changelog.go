@@ -3,8 +3,8 @@ package changelog
 import (
 	"fmt"
 
-	"github.com/flume/release-version/pkg/git"
-	"github.com/flume/release-version/pkg/parser"
+	"github.com/vitorihealth/release-version/pkg/git"
+	"github.com/vitorihealth/release-version/pkg/parser"
 )
 
 // Save generates and adds changelog.md to Git

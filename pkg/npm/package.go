@@ -7,7 +7,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/flume/release-version/pkg/utils"
+	"github.com/vitorihealth/release-version/pkg/utils"
 )
 
 var runner utils.Runner = utils.CommandRunner{}

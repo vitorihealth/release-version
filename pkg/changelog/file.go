@@ -7,7 +7,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/flume/release-version/pkg/git"
+	"github.com/vitorihealth/release-version/pkg/git"
 )
 
 var changelogFile = "CHANGELOG.md"

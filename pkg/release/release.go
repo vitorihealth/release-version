@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/flume/release-version/pkg/changelog"
-	"github.com/flume/release-version/pkg/git"
-	"github.com/flume/release-version/pkg/npm"
-	"github.com/flume/release-version/pkg/parser"
-	"github.com/flume/release-version/pkg/semver"
+	"github.com/vitorihealth/release-version/pkg/changelog"
+	"github.com/vitorihealth/release-version/pkg/git"
+	"github.com/vitorihealth/release-version/pkg/npm"
+	"github.com/vitorihealth/release-version/pkg/parser"
+	"github.com/vitorihealth/release-version/pkg/semver"
 )
 
 // Phase describes the release phase

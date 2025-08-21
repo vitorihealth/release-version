@@ -5,7 +5,7 @@ import (
 
 	sv "github.com/coreos/go-semver/semver"
 
-	"github.com/flume/release-version/pkg/parser"
+	"github.com/vitorihealth/release-version/pkg/parser"
 )
 
 // GetChange determinate semver changes (patch, minor, major)

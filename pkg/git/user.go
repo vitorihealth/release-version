@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/flume/release-version/pkg/utils"
+	"github.com/vitorihealth/release-version/pkg/utils"
 )
 
 // User git user

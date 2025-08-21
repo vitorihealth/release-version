@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/flume/release-version/cmd"
+	"github.com/vitorihealth/release-version/cmd"
 )
 
 func main() {

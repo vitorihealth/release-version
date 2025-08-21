@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/flume/release-version/pkg/parser"
+	"github.com/vitorihealth/release-version/pkg/parser"
 )
 
 // Generate generate markdown output

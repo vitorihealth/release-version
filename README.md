@@ -53,11 +53,11 @@ If there is no commit found related to previous version it will release `1.0.0`.
 *CHANGELOG.md example*
 
 ```
-### [1.7.1](https://github.com/flume/thing/compare/1.7.0...1.7.1) (2020-01-22)
+### [1.7.1](https://github.com/vitorihealth/thing/compare/1.7.0...1.7.1) (2020-01-22)
 
 ### Bug Fixes
 
-* **k8s:** remove lonely config params ([b6d2547](https://github.com/flume/proxy/commit/b6d254762cec7bcf42cbedc0d0ea41d24331dca0))
+* **k8s:** remove lonely config params ([b6d2547](https://github.com/vitorihealth/proxy/commit/b6d254762cec7bcf42cbedc0d0ea41d24331dca0))
 
 ```
 
@@ -96,7 +96,7 @@ a4a95856d51dc3018170f2a854581590d1a27687,minor,feat,foo,initial commit,,
 
 ## Background
 
-Archive copy of the https://github.com/flume fork of https://github.com/hekike/unchain
+Archive copy of the https://github.com/vitorihealth fork of https://github.com/hekike/unchain
 
 Follows:
 
