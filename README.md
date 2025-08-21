@@ -5,7 +5,7 @@ Release tool with automatic changelog generation and next SemVer version calcula
 ## Install
 
 ```sh
-go get github.com/flume/release-version
+go get github.com/vitorihealth/release-version
 ```
 
 ## Usage
@@ -96,7 +96,7 @@ a4a95856d51dc3018170f2a854581590d1a27687,minor,feat,foo,initial commit,,
 
 ## Background
 
-Fork of https://github.com/hekike/unchain
+Archive copy of the https://github.com/flume fork of https://github.com/hekike/unchain
 
 Follows:
 
